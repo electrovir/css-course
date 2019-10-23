@@ -1,0 +1,34 @@
+# css-course
+
+I'm teaching this class at work using internal slides. I'm trying to make as much of it open as possible and I'll be putting that stuff here.
+
+## Week 1
+
+ * CSS vs HTML: https://www.codingdojo.com/blog/html-vs-css-inforgraphic
+ * How to apply CSS to HTML: https://codepen.io/electrovir/pen/PooNjXq?editors=1100
+ * Where to put CSS: https://codepen.io/electrovir/pen/LYYNyRb?editors=1000
+ * Debugging CSS: https://www.lucidchart.com/invitations/accept/d765302f-2cc7-4bed-b669-dc93b61d681e
+   * https://codepen.io/electrovir/full/jOOqVmR
+ * LESS advantages: https://codepen.io/electrovir/pen/RwwRNRw?editors=1100
+ 
+ # Week 2
+ 
+  * CSS gotcha, misaligned Divs: https://codepen.io/electrovir/pen/mddRWwa?editors=1100
+    * https://stackoverflow.com/questions/24862861#comment38612409_24862926
+  * Specificity: https://codepen.io/electrovir/pen/LYYxyMY?editors=1100
+    * https://specifishity.com (as in fish, not :poop:)
+  * DOM: https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model
+    * Only need to read intro info
+  * Shadow DOM: https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_shadow_DOM
+    * Only need to "High-level view"
+  * Web Components: https://codepen.io/electrovir/pen/zYYNdbp
+  * :host() vs :host-context(): https://codepen.io/electrovir/pen/JjjEgQv?editors=1000
+  * :host vs :host(): https://codepen.io/electrovir/pen/BaaWjzv?editors=1000
+  * Selector Combinators: https://codepen.io/electrovir/pen/bGGqpGd?editors=1000
+  * Lobotomized Owl: https://codepen.io/electrovir/pen/LYPdRyZ?editors=0100
+    * Original article: https://alistapart.com/article/axiomatic-css-and-lobotomized-owls/
+  * Universal selector is not bad: https://www.telerik.com/blogs/css-tip-star-selector-not-that-bad
+  
+  # Week 3
+  
+  wip
