@@ -4,7 +4,7 @@ Sponsored by [Lucid](https://www.lucidchart.com) (as in, they're paying me to te
 
 I'm teaching this class at work using internal slides. I'm trying to make as much of it open as possible and I'll be putting that stuff here.
 
-## Week 1: intro
+## Week 1: Intro
 
  * CSS vs HTML: https://www.codingdojo.com/blog/html-vs-css-inforgraphic
  * How to apply CSS to HTML: https://codepen.io/electrovir/pen/PooNjXq?editors=1100
