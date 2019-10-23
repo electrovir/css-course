@@ -4,7 +4,7 @@ Sponsored by [Lucid](https://www.lucidchart.com) (as in, they're paying me to te
 
 I'm teaching this class at work using internal slides. I'm trying to make as much of it open as possible and I'll be putting that stuff here.
 
-## Week 1
+## Week 1: intro
 
  * CSS vs HTML: https://www.codingdojo.com/blog/html-vs-css-inforgraphic
  * How to apply CSS to HTML: https://codepen.io/electrovir/pen/PooNjXq?editors=1100
@@ -13,7 +13,7 @@ I'm teaching this class at work using internal slides. I'm trying to make as muc
    * https://codepen.io/electrovir/full/jOOqVmR
  * LESS advantages: https://codepen.io/electrovir/pen/RwwRNRw?editors=1100
  
- # Week 2
+ ## Week 2: Shadow DOM
  
   * CSS gotcha, misaligned Divs: https://codepen.io/electrovir/pen/mddRWwa?editors=1100
     * https://stackoverflow.com/questions/24862861#comment38612409_24862926
@@ -31,6 +31,6 @@ I'm teaching this class at work using internal slides. I'm trying to make as muc
     * Original article: https://alistapart.com/article/axiomatic-css-and-lobotomized-owls/
   * Universal selector is not bad: https://www.telerik.com/blogs/css-tip-star-selector-not-that-bad
   
-  # Week 3
+  ## Week 3
   
   wip
