@@ -1,5 +1,7 @@
 # css-course
 
+Sponsored by [Lucid](https://www.lucidchart.com) (as in, they're paying me to teach this :grin:).
+
 I'm teaching this class at work using internal slides. I'm trying to make as much of it open as possible and I'll be putting that stuff here.
 
 ## Week 1
