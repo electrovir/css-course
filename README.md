@@ -35,18 +35,20 @@ I'm teaching this class at work using internal slides. I'm trying to make as muc
   
   * CSS gotcha, body default styles: https://codepen.io/electrovir/pen/BaadJbx?editors=1100
   * Box Model: https://codepen.io/electrovir/pen/NWKJJQa?editors=1100
-  * Box Model DIY: https://codepen.io/electrovir/pen/Vwwzypa?editors=0100
+    * Box Model DIY: https://codepen.io/electrovir/pen/Vwwzypa?editors=0100
   * Inline vs Block elements: https://codepen.io/electrovir/pen/MWWvmPe?editors=1100
   * Centering: https://codepen.io/electrovir/pen/Exxvbop?editors=1000
-  * Flexbox basics: https://codepen.io/electrovir/pen/RwwZMVz?editors=1100
-  * Flexbox centering: https://codepen.io/electrovir/pen/PooKeYb?editors=1100
-  * Flexbox centering DIY: https://codepen.io/electrovir/pen/LYYzGJp?editors=1100
-  * Flexbox grow, shrink, basis: https://codepen.io/electrovir/pen/yLLzazq?editors=1100
-  * Flexbox grow, shrink, basis DIY: https://codepen.io/electrovir/pen/OJJxdPz?editors=0100
-  * Flexbox guide: https://css-tricks.com/snippets/css/a-guide-to-flexbox
-  * Flexbox bugs (mostly IE): https://github.com/philipwalton/flexbugs
-  * Grid basics: https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grids
-  * Grid everything: https://css-tricks.com/snippets/css/complete-guide-grid/
+  * Flexbox
+    * Flexbox basics: https://codepen.io/electrovir/pen/RwwZMVz?editors=1100
+    * Flexbox centering: https://codepen.io/electrovir/pen/PooKeYb?editors=1100
+      * Flexbox centering DIY: https://codepen.io/electrovir/pen/LYYzGJp?editors=1100
+    * Flexbox grow, shrink, basis: https://codepen.io/electrovir/pen/yLLzazq?editors=1100
+      * Flexbox grow, shrink, basis DIY: https://codepen.io/electrovir/pen/OJJxdPz?editors=0100
+    * Flexbox guide: https://css-tricks.com/snippets/css/a-guide-to-flexbox
+    * Flexbox bugs (mostly IE): https://github.com/philipwalton/flexbugs
+  * Grid
+    * Grid basics: https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grids
+    * Grid everything: https://css-tricks.com/snippets/css/complete-guide-grid/
 
   ## Week 4
   
