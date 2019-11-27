@@ -74,6 +74,8 @@ I'm teaching this class at work using internal slides. I'm trying to make as muc
 
 -   Flexbox Holy Albatross: https://codepen.io/heydon/pen/ebQyYV?editors=1100
     -   column to row switcher
+    -   original article: https://www.heydonworks.com/article/the-flexbox-holy-albatross
+    -   revised: https://www.heydonworks.com/article/the-flexbox-holy-albatross-reincarnated
 -   ::after pseudo element: https://codepen.io/electrovir/pen/gOONjNm?editors=0100
 
 ## tax
