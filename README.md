@@ -72,4 +72,10 @@ I'm teaching this class at work using internal slides. I'm trying to make as muc
 
 ## Week 6
 
-wip
+-   Flexbox Holy Albatross: https://codepen.io/heydon/pen/ebQyYV?editors=1100
+    -   column to row switcher
+-   ::after pseudo element: https://codepen.io/electrovir/pen/gOONjNm?editors=0100
+
+## tax
+-   https://codepen.io/lynnandtonic/pen/NWWmzjr?editors=1100
+-   https://codepen.io/faulancr/pen/ZEEZBNM?editors=1100
