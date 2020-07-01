@@ -47,7 +47,8 @@ I'm teaching this class at work using internal slides. I'm trying to make as muc
     -   Flexbox centering: https://codepen.io/electrovir/pen/PooKeYb?editors=1100
         -   Flexbox centering DIY: https://codepen.io/electrovir/pen/LYYzGJp?editors=1100
     -   Flexbox grow, shrink, basis: https://codepen.io/electrovir/pen/yLLzazq?editors=1100
-        -   Flexbox grow, shrink, basis DIY: https://codepen.io/electrovir/pen/OJJxdPz?editors=0100
+        -   DIY: https://codepen.io/electrovir/pen/OJJxdPz?editors=0100
+        -   Solution: https://codepen.io/electrovir/pen/YzwEBvM?editors=0100
     -   Flexbox guide: https://css-tricks.com/snippets/css/a-guide-to-flexbox
     -   Flexbox bugs (mostly IE): https://github.com/philipwalton/flexbugs
 -   Grid
