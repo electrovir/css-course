@@ -19,6 +19,8 @@ I'm teaching this class at work using internal slides. I'm trying to make as muc
     -   https://stackoverflow.com/questions/24862861#comment38612409_24862926
 -   Specificity: https://codepen.io/electrovir/pen/LYYxyMY?editors=1100
     -   https://specifishity.com (as in fish, not :poop:)
+    -   DIY: https://codepen.io/electrovir/pen/dyGZwmV?editors=1100
+        -   Solution: https://codepen.io/electrovir/pen/RwrjEOB?editors=0100
 -   DOM: https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model
     -   Only need to read intro info
 -   Shadow DOM: https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_shadow_DOM
