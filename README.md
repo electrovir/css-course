@@ -38,8 +38,8 @@ I'm teaching this class at work using internal slides. I'm trying to make as muc
 
 -   CSS gotcha, body default styles: https://codepen.io/electrovir/pen/BaadJbx?editors=1100
 -   Box Model: https://codepen.io/electrovir/pen/NWKJJQa?editors=1100
-    -   Box Model DIY: https://codepen.io/electrovir/pen/Vwwzypa?editors=0100
-    -   DIY Solution: https://codepen.io/electrovir/pen/YzwEBxd?editors=0100
+    -   DIY: https://codepen.io/electrovir/pen/Vwwzypa?editors=0100
+        -   Solution: https://codepen.io/electrovir/pen/YzwEBxd?editors=0100
 -   Inline vs Block elements: https://codepen.io/electrovir/pen/MWWvmPe?editors=1100
 -   Centering: https://codepen.io/electrovir/pen/Exxvbop?editors=1000
 -   Flexbox
