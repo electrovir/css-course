@@ -9,8 +9,9 @@ I'm teaching this class at work using internal slides. I'm trying to make as muc
 -   CSS vs HTML: https://www.codingdojo.com/blog/html-vs-css-inforgraphic
 -   How to apply CSS to HTML: https://codepen.io/electrovir/pen/PooNjXq?editors=1100
 -   Where to put CSS: https://codepen.io/electrovir/pen/LYYNyRb?editors=1000
--   Debugging CSS: https://www.lucidchart.com/invitations/accept/d765302f-2cc7-4bed-b669-dc93b61d681e
-    -   https://codepen.io/electrovir/full/jOOqVmR
+-   Debugging CSS
+    -   Process flowchart: https://raw.githubusercontent.com/electrovir/css-course/master/debugging-css-flowchart.png
+    -   DIY: https://codepen.io/electrovir/full/jOOqVmR
 -   LESS advantages: https://codepen.io/electrovir/pen/RwwRNRw?editors=1100
 
 ## Week 2: Shadow DOM
